@@ -1,0 +1,13 @@
+.error-card{
+    background: white;
+    width: fit-content;
+    height: fit-content;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+}
+
+.error-message{
+    font-size: 75px;
+    font-family: "Lato";
+    font-weight: 100;
+    color: yellow;
+}

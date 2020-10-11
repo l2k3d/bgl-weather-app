@@ -1,0 +1,54 @@
+
+  .data-container{
+    justify-self: center;
+    align-self: center;
+    align-items: flex-start;
+    position: relative;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+  }
+  
+.data-header{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-self: center;
+  padding-left: 12rem;
+}
+
+  .data-container h2{
+    color: teal;
+  }
+
+  .data-container span{
+    font-family: 'Lato';
+    color: green;
+    font-size: 4em;
+    width: 25%;
+
+  }
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 15px;
+  }
+  
+  .weather-data-icon{
+    padding-left:40px;
+  }
+
+  .weather-icon {
+    background-color:  #e4e4e4cb;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+    border-radius: 15px 15px 15px 15px;
+  }
+
+  @import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700);

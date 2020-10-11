@@ -1,0 +1,11 @@
+.weather-data{
+    width: 150px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  .weather-data-text{
+    color: white;
+    font-family: 'Lato';
+    font-size: 4em;
+  }
