@@ -13,3 +13,24 @@ test('renders learn react link', () => {
 
   expect(getByText(/learn/i)).toBeInTheDocument();
 });
+
+
+//to do :
+
+//test case
+// is application working
+
+
+//does home page load
+
+
+//does location field exist
+
+//click search button
+
+//does it get forecast
+
+//Does it show error message on non existent location
+
+// does it show error message where empty
+
