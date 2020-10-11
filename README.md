@@ -1,5 +1,6 @@
 
-## Available Scripts
+## `Instructions - in terminal >`
+
 
 ### `npm install`
 
