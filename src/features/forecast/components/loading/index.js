@@ -1,7 +1,7 @@
 import React from "react";
 import './index.css';
 
-function loading({ alt, icon }) {
+function loading() {
   return (
     <div className="loader">Loading...</div>
   );

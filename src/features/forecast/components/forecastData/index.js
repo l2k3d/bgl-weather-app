@@ -18,7 +18,7 @@ function forecastData({ forecast }) {
           icon={_.head(forecast.weather).icon}
         />
         </div>
-        <h2 className="weather-data-text">{forecast.name}</h2>
+        <h2 id="forecast-location" className="weather-data-text">{forecast.name}</h2>
         
         <span className="weather-data weather-data-text">
           {_.head(forecast.weather).description}
